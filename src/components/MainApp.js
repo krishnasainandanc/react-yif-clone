@@ -9,11 +9,11 @@ const MainApp = () => {
   return (
     <div>
         <Routes>
-          <Route exact path="/react-youthIndia" element={<App/>}/>
-          <Route exact path="/react-youthIndia/OurTeam" element={<OTeam/>}/>
-          <Route exact path="/react-youthIndia/OurWork" element={<Work/>}/>
-          <Route exact path="/react-youthIndia/OurAbout" element={<About/>}/>
-          <Route exact path="/react-youthIndia/OurEvent" element={<OEvent/>}/>
+          <Route exact path="/react-yif-clone" element={<App/>}/>
+          <Route exact path="/react-yif-clone/OurTeam" element={<OTeam/>}/>
+          <Route exact path="/react-yif-clone/OurWork" element={<Work/>}/>
+          <Route exact path="/react-yif-clone/OurAbout" element={<About/>}/>
+          <Route exact path="/react-yif-clone/OurEvent" element={<OEvent/>}/>
         </Routes>
     </div>
   )
