@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-yif-clone/static/css/main.b2a023dd.css",
-    "main.js": "/react-yif-clone/static/js/main.b08eba2c.js",
+    "main.js": "/react-yif-clone/static/js/main.496dd64a.js",
     "static/media/about.png": "/react-yif-clone/static/media/about.dcad3fa984a362ea8782.png",
     "static/media/yif_about us_2.png": "/react-yif-clone/static/media/yif_about us_2.cea4840b378bbb7f43b6.png",
     "static/media/yif_about us_3.png": "/react-yif-clone/static/media/yif_about us_3.811d5ba6c5ec163d8588.png",
@@ -29,10 +29,10 @@
     "static/media/Karnataka.svg": "/react-yif-clone/static/media/Karnataka.57bfc7d914dc40b2c9c5ced479ca5bd3.svg",
     "index.html": "/react-yif-clone/index.html",
     "main.b2a023dd.css.map": "/react-yif-clone/static/css/main.b2a023dd.css.map",
-    "main.b08eba2c.js.map": "/react-yif-clone/static/js/main.b08eba2c.js.map"
+    "main.496dd64a.js.map": "/react-yif-clone/static/js/main.496dd64a.js.map"
   },
   "entrypoints": [
     "static/css/main.b2a023dd.css",
-    "static/js/main.b08eba2c.js"
+    "static/js/main.496dd64a.js"
   ]
 }
