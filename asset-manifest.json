@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-yif-clone/static/css/main.b2a023dd.css",
+    "main.js": "/react-yif-clone/static/js/main.b08eba2c.js",
+    "static/media/about.png": "/react-yif-clone/static/media/about.dcad3fa984a362ea8782.png",
+    "static/media/yif_about us_2.png": "/react-yif-clone/static/media/yif_about us_2.cea4840b378bbb7f43b6.png",
+    "static/media/yif_about us_3.png": "/react-yif-clone/static/media/yif_about us_3.811d5ba6c5ec163d8588.png",
+    "static/media/kids round.png": "/react-yif-clone/static/media/kids round.d2de620c069b5acad999.png",
+    "static/media/graph-1.png": "/react-yif-clone/static/media/graph-1.2532ec566344feab39b5.png",
+    "static/media/graph-2.png": "/react-yif-clone/static/media/graph-2.2532ec566344feab39b5.png",
+    "static/media/Pushney(Co-Founder).png": "/react-yif-clone/static/media/Pushney(Co-Founder).9dbe43a336bd43577cc4.png",
+    "static/media/Sangram (Co-Founder).png": "/react-yif-clone/static/media/Sangram (Co-Founder).ecc0c09314a22d35c2e5.png",
+    "static/media/E - School.png": "/react-yif-clone/static/media/E - School.9d5eeb43ff43fd77f03a.png",
+    "static/media/Aanis.png": "/react-yif-clone/static/media/Aanis.33a5fb359d37b8b84c76.png",
+    "static/media/outreach.jpg": "/react-yif-clone/static/media/outreach.fdb0638c87879e2dadc1.jpg",
+    "static/media/graph-3.png": "/react-yif-clone/static/media/graph-3.15ef5b7d8c978e7891e5.png",
+    "static/media/About Us YIF.png": "/react-yif-clone/static/media/About Us YIF.d58c7c8065731c33e609.png",
+    "static/media/Game_on.jfif": "/react-yif-clone/static/media/Game_on.cc2915b032a0909f7a57.jfif",
+    "static/media/volunteer.png": "/react-yif-clone/static/media/volunteer.d6af72310aac718caed3.png",
+    "static/media/event_2.webp": "/react-yif-clone/static/media/event_2.e8400f1e2191aeca7370.webp",
+    "static/media/event_3.webp": "/react-yif-clone/static/media/event_3.2776aba25ab53632c519.webp",
+    "static/media/event_1.webp": "/react-yif-clone/static/media/event_1.57258e3dd45fd528f1d1.webp",
+    "static/media/e_school.webp": "/react-yif-clone/static/media/e_school.64a01e4e79e345d8d765.webp",
+    "static/media/bbgg.png": "/react-yif-clone/static/media/bbgg.9c42e8df95a46b09876b.png",
+    "static/media/your_friend.webp": "/react-yif-clone/static/media/your_friend.1f4a9c053282a37645fd.webp",
+    "static/media/Subankar Nandha.JPG": "/react-yif-clone/static/media/Subankar Nandha.d1dae5815279a156a9e6.JPG",
+    "static/media/bg-home.jpg": "/react-yif-clone/static/media/bg-home.35b466ad738a56794c57.jpg",
+    "static/media/e_commerce.webp": "/react-yif-clone/static/media/e_commerce.40c82f70becaa55d62d8.webp",
+    "static/media/Karnataka.svg": "/react-yif-clone/static/media/Karnataka.57bfc7d914dc40b2c9c5ced479ca5bd3.svg",
+    "index.html": "/react-yif-clone/index.html",
+    "main.b2a023dd.css.map": "/react-yif-clone/static/css/main.b2a023dd.css.map",
+    "main.b08eba2c.js.map": "/react-yif-clone/static/js/main.b08eba2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a023dd.css",
+    "static/js/main.b08eba2c.js"
+  ]
+}
