@@ -33,10 +33,10 @@ const NavBar = () => {
          <div className='imp-nav' id='imp-nav'>
         <div className="logo"><img src={logo} /></div>
          <ul>
-           <NavLink to="/react-youthIndia/OurAbout" style={{textDecoration:"none"}}><li>About Us</li></NavLink>
-           <NavLink to="/react-youthIndia/OurTeam" style={{textDecoration:"none"}}><li>Our Team</li></NavLink>
-           <NavLink to="/react-youthIndia/OurWork" style={{textDecoration:"none"}}><li>Our Work</li></NavLink>
-           <NavLink to="/react-youthIndia/OurEvent" style={{textDecoration:"none"}}><li id="imp">Our Event</li></NavLink>
+           <NavLink to="/OurAbout" style={{textDecoration:"none"}}><li>About Us</li></NavLink>
+           <NavLink to="/OurTeam" style={{textDecoration:"none"}}><li>Our Team</li></NavLink>
+           <NavLink to="/OurWork" style={{textDecoration:"none"}}><li>Our Work</li></NavLink>
+           <NavLink to="/OurEvent" style={{textDecoration:"none"}}><li id="imp">Our Event</li></NavLink>
          </ul>
          </div>
          <div className='right-btn' id='right-btn'>
